@@ -13,7 +13,7 @@ We build cloud sandbox infrastructure for developers. Spin up isolated, ephemera
 
 | Repo | What it does |
 |---|---|
-| **[t3code](https://github.com/tennantcloud/t3code)** | Open-source code editor built on Tennant sandboxes |
+| **[t3code](https://github.com/tennantcloud/t3code)** | Minimal web GUI for coding agents |
 
 ### Links
 
