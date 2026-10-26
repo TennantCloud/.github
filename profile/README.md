@@ -1,6 +1,6 @@
 ## Hey, we're Tennant
 
-We build cloud sandbox infrastructure for developers. Spin up isolated, persistent environments in seconds — from templates, snapshots, or your own Dockerfiles.
+We're building an opinionated cloud for all your compute and storage, optimized around how you and your agents work. Install apps and databases, share work across agents, and pay only for the compute you use.
 
 ### What we're building
 
